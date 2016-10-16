@@ -1,0 +1,14 @@
+syntax on
+set wildmenu
+set showcmd
+set hlsearch
+set ignorecase
+set smartcase
+set autoindent
+set nostartofline
+set ruler
+set visualbell
+set mouse=a
+set number
+set clipboard=unnamedplus
+set guioptions+=a
